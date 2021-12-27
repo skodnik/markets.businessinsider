@@ -1,0 +1,82 @@
+[
+    {
+        "code": "MRK",
+        "name": "Merck",
+        "price": 5585.25,
+        "P\/E": 13.66,
+        "growth": -0.01,
+        "potential profit": 496.6057
+    },
+    {
+        "code": "MRNA",
+        "name": "Moderna",
+        "price": 18221.09,
+        "P\/E": -59.95,
+        "growth": 92.85,
+        "potential profit": 384.2879
+    },
+    {
+        "code": "DISCA",
+        "name": "Discovery Communication a",
+        "price": 1792.67,
+        "P\/E": 9.18,
+        "growth": -16.38,
+        "potential profit": 260.7572
+    },
+    {
+        "code": "VIAC",
+        "name": "ViacomCBS",
+        "price": 2220.33,
+        "P\/E": 0,
+        "growth": -18.83,
+        "potential profit": 260.4454
+    },
+    {
+        "code": "PENN",
+        "name": "Penn National Gaming",
+        "price": 3687.86,
+        "P\/E": -17.5,
+        "growth": -47.06,
+        "potential profit": 227.2643
+    },
+    {
+        "code": "DISCK",
+        "name": "Discovery Communications",
+        "price": 1735.55,
+        "P\/E": 8.03,
+        "growth": -8.17,
+        "potential profit": 219.5975
+    },
+    {
+        "code": "DVN",
+        "name": "Devon Energy",
+        "price": 3102.76,
+        "P\/E": -167.13,
+        "growth": 169.81,
+        "potential profit": 201.7219
+    },
+    {
+        "code": "NVDA",
+        "name": "NVIDIA",
+        "price": 22527.01,
+        "P\/E": 51.8,
+        "growth": 125.99,
+        "potential profit": 199.4381
+    },
+    {
+        "code": "MRO",
+        "name": "Marathon Oil",
+        "price": 1175.34,
+        "P\/E": -5.6,
+        "growth": 135.36,
+        "potential profit": 170.1997
+    },
+    {
+        "code": "NUE",
+        "name": "Nucor",
+        "price": 8423.65,
+        "P\/E": 15.99,
+        "growth": 116.15,
+        "potential profit": 168.69
+    }
+]

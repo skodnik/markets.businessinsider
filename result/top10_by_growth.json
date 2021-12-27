@@ -1,0 +1,82 @@
+[
+    {
+        "code": "DVN",
+        "name": "Devon Energy",
+        "price": 3102.76,
+        "P\/E": -167.13,
+        "growth": 169.81,
+        "potential profit": 201.7219
+    },
+    {
+        "code": "BBWI",
+        "name": "Bath & Body Works",
+        "price": 5058.73,
+        "P\/E": 14.17,
+        "growth": 144.13,
+        "potential profit": 53.3705
+    },
+    {
+        "code": "MRO",
+        "name": "Marathon Oil",
+        "price": 1175.34,
+        "P\/E": -5.6,
+        "growth": 135.36,
+        "potential profit": 170.1997
+    },
+    {
+        "code": "FTNT",
+        "name": "Fortinet",
+        "price": 26697.46,
+        "P\/E": 43.03,
+        "growth": 131.74,
+        "potential profit": 165.5986
+    },
+    {
+        "code": "NVDA",
+        "name": "NVIDIA",
+        "price": 22527.01,
+        "P\/E": 51.8,
+        "growth": 125.99,
+        "potential profit": 199.4381
+    },
+    {
+        "code": "F",
+        "name": "Ford Motor",
+        "price": 1506.34,
+        "P\/E": 21.51,
+        "growth": 124.15,
+        "potential profit": 154.9229
+    },
+    {
+        "code": "FANG",
+        "name": "Diamondback Energy",
+        "price": 7831.22,
+        "P\/E": 15.58,
+        "growth": 121.11,
+        "potential profit": 154.7835
+    },
+    {
+        "code": "NUE",
+        "name": "Nucor",
+        "price": 8423.65,
+        "P\/E": 15.99,
+        "growth": 116.15,
+        "potential profit": 168.69
+    },
+    {
+        "code": "IT",
+        "name": "Gartner",
+        "price": 24091.94,
+        "P\/E": 32.29,
+        "growth": 106.62,
+        "potential profit": 146.4271
+    },
+    {
+        "code": "CF",
+        "name": "CF Industries Holdings",
+        "price": 5269.63,
+        "P\/E": 24.94,
+        "growth": 95.13,
+        "potential profit": 99.0993
+    }
+]
